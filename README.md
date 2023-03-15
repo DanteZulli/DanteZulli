@@ -31,7 +31,7 @@ Y algunas otras cositas más...
 ---
 ### 📊Mis Estadísticas (Un poco humildes lo sé)
 
-!Dante Zulli Stats(https://github-readme-stats.vercel.app/api?username=DanteZulli&show_icons=true&theme=dracula)(https://github.com/anuraghazra/github-readme-stats)
+[!Dante Zulli Stats](https://github-readme-stats.vercel.app/api?username=DanteZulli&show_icons=true&theme=dracula)(https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 💙Redes y Contacto
