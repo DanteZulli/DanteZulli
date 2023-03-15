@@ -35,7 +35,7 @@ Y algunas otras cositas más...
 
 ---
 ### 💙Redes y Contacto
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:dantezulli2004@gmail.com)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.link/v9zczz)
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)(https://linktr.ee/dantezulli)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/dante-zulli/)
+<a href="mailto:dantezulli2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="padding-right:10px;" /></a>
+<a href="https://wa.link/v9zczz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="padding-right:10px;" /></a>
+<a href="https://linktr.ee/dantezulli"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/dante-zulli/"><img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:10px;" /></a>
