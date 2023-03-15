@@ -1,3 +1,3 @@
 ### Que tal! Bienvenidos a mi GitHub ❤💻
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=Visitantes)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 Acá vas a encontrar todos mis proyectos recientes, ya sean personales, o institucionales.
