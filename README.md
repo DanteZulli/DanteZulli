@@ -44,6 +44,7 @@ Y algunas otras cositas más...
 
 ---
 ### 🌐Idiomas
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+<br />
 🇬🇧 Inglés (Avanzado)
+<br />
 🇪🇸🇦🇷 Español (Nativo)
