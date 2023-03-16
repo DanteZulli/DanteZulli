@@ -44,7 +44,6 @@ Y algunas otras cositas más...
 
 ---
 ### 🌐Idiomas
+-Inglés (Avanzado)🇬🇧 
 <br />
-🇬🇧 Inglés (Avanzado)
-<br />
-🇪🇸🇦🇷 Español (Nativo)
+-Español (Nativo)🇪🇸 🇦🇷
