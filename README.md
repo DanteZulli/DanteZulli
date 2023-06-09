@@ -1,17 +1,4 @@
-<style>
-* {
-  font-family: Cascadia Code;
-}
-.tools-icons {
-  margin: 5px;
-  width:35px;
-  padding:7px; 
-  border:1px solid black; 
-  border-radius:50%;
-  background-color:#c2c2c2;
-  box-shadow: 0px 0px 5px 0px #000000;
-}
-</style>
+
 # Dante Zulli 🐧
 
 **`Técnico en programación`** **`Analista Programador Trainee`** **`Futuro Licenciado en Sistemas`**
@@ -22,22 +9,120 @@
 
 ### Lenguajes y Herramientas 🧰
 
-<img class="tools-icons" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img class="tools-icons" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img class="tools-icons" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img class="tools-icons" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img class="tools-icons" alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img class="tools-icons" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img class="tools-icons" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img class="tools-icons" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img class="tools-icons" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img class="tools-icons" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img class="tools-icons" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img class="tools-icons" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img class="tools-icons" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img class="tools-icons" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img class="tools-icons" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img class="tools-icons" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img style="
+  align:left;
+  margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img style="margin: 5px;
+  width:35px;
+  padding:7px; 
+  border:1px solid black; 
+  border-radius:50%;
+  background-color:#c2c2c2;
+  box-shadow: 0px 0px 5px 0px #000000;" alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 
 <br />
 <br />
