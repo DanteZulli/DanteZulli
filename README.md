@@ -20,11 +20,10 @@
 
 <h3 align="left">📊Estadísticas y Trofeos</h3>
 <h6 align="left">(Un poco humildes, lo sé)</h6>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=gruvbox" alt="dantezulli" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=40" alt="dantezulli" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=gruvbox" alt="dantezulli" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="dantezulli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=gruvbox" alt="dantezulli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=gruvbox" alt="dantezulli" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=dantezulli&theme=gruvbox" alt="dantezulli" />
-</div>
+
 
 <hr>
