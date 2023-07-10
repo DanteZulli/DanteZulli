@@ -18,4 +18,16 @@
 ### Un poco más sobre mi... <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50px">
 <img src="profile.png" alt="Profile Picture" align="right">
 
+```java
+public class DanteZulli {
+  public static void main(String[] args) {
+    String name = "Dante Zulli";
+    String pronouns = "he/him";
+    String birthday = "2004-04-08";
+    String country = "Argentina";
+    String city = "Lomas de Zamora";
+  }
+}
+```
+
 #### Trabajo con las siguientes herramientas
