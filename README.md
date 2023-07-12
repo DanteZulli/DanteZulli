@@ -6,11 +6,11 @@
 <a href="https://wa.link/v9zczz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=&logo=whatsapp&logoColor=white" /></a>
 <a href="https://linktr.ee/dantezulli"><img alt="LinkTree" src="https://img.shields.io/badge/Linktree-1de9b6?style=&logo=linktree&logoColor=white" /></a>
 <a href="https://instagram.com/dante_zu04"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://t.me/rootdante"><img src="https://img.shields.io/badge/-telegram-blue?logo=telegram&style=for-the-badge" /></a>
+<a href="https://t.me/rootdante"><img src="https://img.shields.io/badge/-telegram-blue?logo=telegram" /></a>
 <a href="https://stackoverflow.com/users/19446091"> <img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </a> 
 </div>
-<h1 align="center">🐧 Dante Zulli<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px"></h1>
+<h1 align="center">🐧 Dante Zulli <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px"></h1>
 <h5 align="center"><code>Técnico en programación</code> <code>Analista Programador Trainee</code> <code>Futuro Licenciado en Sistemas</code></h5>
 <p align="center">¡Hola! Me llamo Dante. Nací el 8 de Abril del 2004. Actualmente, soy estudiante en la Universidad Nacional de Lanús, en la carrera de Sistemas. Realicé mis estudios secundarios con tecnicatura en Programación. También complemento estos de manera autodidacta (con capacitaciones online, cursos o clases). Poseo un nivel de inglés avanzado. Estoy muy interesado en descubrir cosas nuevas, ampliar mi conocimiento y trabajar en un entorno que me capacite dia a dia!
 </p>
