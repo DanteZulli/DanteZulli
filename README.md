@@ -1,64 +1,41 @@
-<h2>¿Qué tal? Me presento, mi nombre es Dante Zulli <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px"></h2>
-
-<p>
-<em>Técnico en Programación egresado de la <a href="https://www.facebook.com/EEST2Temperley/">E.E.S.T Nº2</a></em> 🏫
-<br>
-<em>Analista Programador Trainee en <a href="https://www.provinciaseguros.com.ar/">Provincia Seguros</a></em> 💼
-<br>
-<em>Futuro Licenciado en Sistemas en la <a href="http://www.unla.edu.ar/">UNLa</a></em> 🎓
-</p>
-
-<a href="mailto:dantezulli2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.link/v9zczz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://t.me/rootdante"><img src="https://img.shields.io/badge/-telegram-blue?logo=telegram&style=for-the-badge" /></a>
-<a href="https://www.linkedin.com/in/dante-zulli/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/19446091"> <img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />
+<div align="right">
+<a href="https://visitcount.itsvg.in">
+  <img align="left" src="https://visitcount.itsvg.in/api?id=dantezulli&label=Profile%20Views&color=6&icon=7&pretty=true" />
 </a>
+<a href="mailto:dantezulli2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.link/v9zczz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=&logo=whatsapp&logoColor=white" /></a>
+<a href="https://linktr.ee/dantezulli"><img alt="LinkTree" src="https://img.shields.io/badge/Linktree-1de9b6?style=&logo=linktree&logoColor=white" /></a>
+<a href="https://instagram.com/dante_zu04"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://t.me/rootdante"><img src="https://img.shields.io/badge/-telegram-blue?logo=telegram&style=for-the-badge" /></a>
+<a href="https://stackoverflow.com/users/19446091"> <img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+</a> 
+</div>
+<h1 align="center">🐧 Dante Zulli<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px"></h1>
+<h5 align="center"><code>Técnico en programación</code> <code>Analista Programador Trainee</code> <code>Futuro Licenciado en Sistemas</code></h5>
+<p align="center">¡Hola! Me llamo Dante. Nací el 8 de Abril del 2004. Actualmente, soy estudiante en la Universidad Nacional de Lanús, en la carrera de Sistemas. Realicé mis estudios secundarios con tecnicatura en Programación. También complemento estos de manera autodidacta (con capacitaciones online, cursos o clases). Poseo un nivel de inglés avanzado. Estoy muy interesado en descubrir cosas nuevas, ampliar mi conocimiento y trabajar en un entorno que me capacite dia a dia!
+</p>
+<hr>
+<h3 align="center">🧰Lenguajes, Herramientas</h3>
+<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h6 align="center">Y algunas cositas más...</h6>
+<hr>
 
-### Un poco más sobre mi... <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="50px">
+<h3 align="center">📊Estadísticas y Trofeos</h3>
+<h6 align="center">(Un poco humildes, lo sé)</h6>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dantezulli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=tokyonight" alt="dantezulli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=tokyonight" alt="dantezulli" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=dantezulli&theme=tokyonight" alt="dantezulli" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dantezulli" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=tokyonight" alt="dantezulli" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=tokyonight" alt="dantezulli" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=dantezulli&theme=tokyonight&column=-1&no-bg=true&no-frame=true" alt="dantezulli" />
 
-<img src="profile.png" alt="Profile Picture" align="right">
-<br>
+<hr>
 
-```javascript
-const dante = {
-  name: "Dante Zulli",
-  pronouns: "he" | "him",
-  birthDate: "2004-04-08",
-  country: "Argentina",
-  languages: ["Spanish", "English"],
-};
-```
-<br>
-<br>
-
-#### Cosas con las que trabajo
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+<h3 align="center">✍️Dev Quote Aleatoria</h3>
+<h6 align="center">Fortune Vibes...</h6>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
