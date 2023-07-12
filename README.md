@@ -22,10 +22,6 @@
 
 <h3 align="center">📊Estadísticas y Trofeos</h3>
 <h6 align="center">(Un poco humildes, lo sé)</h6>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dantezulli" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=tokyonight" alt="dantezulli" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=tokyonight" alt="dantezulli" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=dantezulli&theme=tokyonight" alt="dantezulli" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dantezulli&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dantezulli" /></p>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dantezulli&show_icons=true&locale=en&theme=tokyonight" alt="dantezulli" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dantezulli&theme=tokyonight" alt="dantezulli" /></p>
