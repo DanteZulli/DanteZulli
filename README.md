@@ -2,13 +2,6 @@
 <a href="https://visitcount.itsvg.in">
   <img align="left" src="https://visitcount.itsvg.in/api?id=dantezulli&label=Profile%20Views&color=6&icon=7&pretty=true" />
 </a>
-<a href="mailto:dantezulli2004@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.link/v9zczz"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=&logo=whatsapp&logoColor=white" /></a>
-<a href="https://linktr.ee/dantezulli"><img alt="LinkTree" src="https://img.shields.io/badge/Linktree-1de9b6?style=&logo=linktree&logoColor=white" /></a>
-<a href="https://instagram.com/dante_zu04"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-<a href="https://t.me/rootdante"><img src="https://img.shields.io/badge/-telegram-blue?logo=telegram" /></a>
-<a href="https://stackoverflow.com/users/19446091"> <img alt="StackOverflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-</a> 
 </div>
 <h1 align="center">🐧 Dante Zulli <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px"></h1>
 <h5 align="center"><code>Técnico en programación</code> <code>Analista Programador Trainee</code> <code>Futuro Licenciado en Sistemas</code></h5>
