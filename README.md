@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Este Readme no tiene sentido alguno...
 
-<h1 align="left">Dante Zulli ✨<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcDMV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px">🐧</h1>
+<h1 align="left">✨Dante Zulli <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcDMV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px">🐧</h1>
 
 <img align="right" height="250" src="profile.png"  />
 
