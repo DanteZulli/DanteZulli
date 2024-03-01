@@ -1,14 +1,15 @@
+> [!CAUTION]
+> Este Readme no tiene sentido alguno...
+
 <h1 align="left">Dante Zulli ✨<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpdTdvcjFzaHg4dW1tODliM3plNzZ4ZGhveWVvbjg5d2JxY3FqciZlcDMV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L2wEbAL75L24xiHWFa/giphy.gif" width="20px">🐧</h1>
 
 <img align="right" height="250" src="profile.png"  />
 
-<p align="left">¡Hola a todos! Esta es mi breve presentación ₍ᐢ. .ᐢ₎ ₊˚⊹♡<br>Me llamo Dante, actualmente estoy trabajando como Analista Programador [aquí](https://www.provinciaseguros.com.ar/). <br>Gran parte de mis proyectos son desarrollados en ♨️Java, pero me considero un 🌈 Rainbow Language User🌈 (Digamos que soy tecnológicamente poliamoroso).<br>También soy Técnico en Programación (egresado de [acá](https://www.facebook.com/EEST2Temperley/)) y estoy estudiando para convertirme en un "Licenciado (algún día ingeniero) en Sistemas" [acá](https://www.unla.edu.ar/).<br>Soy Linuxero 🐧 y, por supuesto, OpenSourcerer🔮<br>Como información extra-laboral, suelo participar de competencias de programación y hackatones. Me encanta asistir a eventos IT, más si son sobre Software Libre, y por último, pero no menos importante, soy un amante del café ☕, en cualquiera de sus formas.</p>
+<p align="left">¡Hola a todos! Esta es mi breve presentación <img src="bongo-cat.gif" width="30px"><br>Me llamo Dante, actualmente desempeño el rol de Analista Programador <a href="https://www.provinciaseguros.com.ar/">aquí</a>.<br>Mi trabajo se centra principalmente en proyectos desarrollados en ♨️Java, pero me considero un 🌈Rainbow Language User🌈 (Digamos que soy tecnológicamente poliamoroso).<br>Además de mi labor profesional, soy Técnico en Programación (egresado de <a href="https://www.facebook.com/EEST2Temperley/">esta insitución</a>) y estoy estudiando para convertirme en un "Licenciado (algún día ingeniero) en Sistemas" en <a href="https://www.unla.edu.ar/">esta universidad</a>.<br>Soy Linuxero 🐧 y, por supuesto, OpenSourcerer🧙🔮<br>Como información extra-laboral, suelo participar de competencias de programación y hackatones. Me encanta asistir a eventos IT, más si son sobre Software Libre, y por último, pero no menos importante, soy un amante del café ☕, en cualquiera de sus formas.<br>Sean bienvenidos ₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
 
 ###
 
 <h3 align="left">Tecnologías y herramientas con las que trabajo actualmente:</h3>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -81,3 +82,6 @@
 </div>
 
 ###
+
+> [!IMPORTANT]
+>  ≽^•⩊•^≼ ₊˚⊹♡
