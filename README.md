@@ -10,7 +10,7 @@ Me llamo Dante, actualmente estoy trabajando como <i>Analista Programador Junior
 Desarrollo principalmente proyectos en Java, pero me considero "tecnológicamente poliamoroso".<br>
 Además de mi labor profesional, soy <i>Técnico en Programación</i> (egresado de la <a href="https://www.facebook.com/EEST2Temperley/">E.E.S.T Nº2</a>) y estoy estudiando para convertirme en un <i>"Licenciado (algún día ingeniero) en Sistemas"</i> en la <a href="https://www.unla.edu.ar/">UNLa</a>.<br>
 <br>
-Como información extra, dentro de mis hobbies se encuentran la impresión 3D, "cacharrear" con Hardware viejito (también trabajé como servicio técnico), la electrónica (que me detesta aunque yo la quiera cada día más) y la mecánica dentro de muchas otras cosas más <3.<br>
+Como información extra, dentro de mis hobbies se encuentran la impresión 3D, "cacharrear" con Hardware viejito (también trabajé como servicio técnico), la electrónica (que me detesta aunque yo la quiera cada día más) y la mecánica dentro de muchas otras cosas <3.<br>
 Soy Linuxero, fanático del Open Source y del Software Libre, y por último pero no menos importante, amante del café (en todas sus formas). <br>
 Seguro se me quedó algo en el tintero, pero soy un desastre escribiendo, así que sean bienvenidos, espero podamos conocernos mejor y algún día trabajar juntos! ₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
 
