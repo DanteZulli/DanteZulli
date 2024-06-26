@@ -5,7 +5,14 @@
 
 <img align="right" height="250" src="profile.png"  />
 
-<p align="left">¡Hola a todos! Esta es mi breve presentación <img src="bongo-cat.gif" width="30px"><br>Me llamo Dante, actualmente desempeño el rol de Analista Programador <a href="https://www.provinciaseguros.com.ar/">aquí</a>.<br>Mi trabajo se centra principalmente en proyectos desarrollados en ♨️Java, pero me considero un 🌈Rainbow Language User🌈 (Digamos que soy tecnológicamente poliamoroso).<br>Además de mi labor profesional, soy Técnico en Programación (egresado de <a href="https://www.facebook.com/EEST2Temperley/">esta insitución</a>) y estoy estudiando para convertirme en un "Licenciado (algún día ingeniero) en Sistemas" en <a href="https://www.unla.edu.ar/">esta universidad</a>.<br>Soy Linuxero 🐧 y, por supuesto, OpenSourcerer🧙🔮<br>Como información extra-laboral, suelo participar de competencias de programación y hackatones. Me encanta asistir a eventos IT, más si son sobre Software Libre, y por último, pero no menos importante, soy un amante del café ☕, en cualquiera de sus formas.<br>Sean bienvenidos ₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
+<p align="left">¡Holaa a todos! Esta es mi breve presentación <img src="bongo-cat.gif" width="30px"><br>
+Me llamo Dante, actualmente estoy trabajando como <i>Analista Programador Junior</i> en <a href="https://www.provinciaseguros.com.ar/">Provincia Seguros</a>.<br>
+Desarrollo principalmente proyectos en Java, pero me considero "tecnológicamente poliamoroso".<br>
+Además de mi labor profesional, soy <i>Técnico en Programación</i> (egresado de la <a href="https://www.facebook.com/EEST2Temperley/">E.E.S.T Nº2</a>) y estoy estudiando para convertirme en un <i>"Licenciado (algún día ingeniero) en Sistemas"</i> en la <a href="https://www.unla.edu.ar/">UNLa</a>.<br>
+<br>
+Como información extra, dentro de mis hobbies se encuentran la impresión 3D, "cacharrear" con Hardware (también trabaje como servicio técnico), la electrónica (que me detesta aunque yo la quiera cada día más) y la mecánica.
+Soy Linuxero, fanático del Open Source y del Software Libre, y por último pero no menos importante, amante del café (en todas sus formas). <br>
+Seguro se me quedó algo en el tintero, pero soy un desastre escribiendo, así que sean bienvenidos, espero podamos conocernos mejor y trabajar juntos! ₍ᐢ. .ᐢ₎ ₊˚⊹♡</p>
 
 ###
 
