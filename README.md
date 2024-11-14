@@ -48,7 +48,9 @@ Probablemente se me haya quedado algo en el tintero, pero soy un desastre escrib
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
