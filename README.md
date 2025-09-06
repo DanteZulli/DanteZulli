@@ -14,6 +14,7 @@ Como información extra, dentro de mis hobbies 🔧 se encuentran la impresión 
 Soy 🐧Linuxero, fanático del Open Source y del Software Libre, y por último pero no menos importante, amante del café (en todas sus formas) ☕. <br>
 Probablemente se me haya quedado algo en el tintero, pero soy un desastre escribiendo. ¡Espero que podamos conocernos mejor y tal vez trabajar juntos algún día!</p><br>
 <img src="bongo-cat.gif" width="45px">
-###
+
+
 > [!IMPORTANT]
 >  ≽^•⩊•^≼ ₊˚⊹♡
